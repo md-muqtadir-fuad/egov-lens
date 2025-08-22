@@ -1,0 +1,7 @@
+pandas
+scipy
+scikit-learn
+numpy
+matplotlib
+joblib
+bangla-stemmer==1.0.0   # optional; used if available
