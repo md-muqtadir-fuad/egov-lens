@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "eGov-Lens: Code and Dataset"
+authors:
+  - family-names: Fuad
+    given-names: Md. Muqtadir
+    affiliation: Bangladesh University of Engineering and Technology (BUET)
+  - family-names: Mazid
+    given-names: Abdullah Al
+    affiliation: BUET
+  - family-names: Adnan
+    given-names: Md. Istiak
+    affiliation: BUET
+repository-code: "https://github.com/md-muqtadir-fuad/eGov-Lens"
+url: "https://github.com/md-muqtadir-fuad/eGov-Lens"
+version: "v1.0.0"
+date-released: "2025-08-25"
+preferred-citation:
+  type: generic
+  title: "eGov-Lens: Code and Dataset"
+  authors:
+    - family-names: Fuad
+      given-names: Md. Muqtadir
+    - family-names: Mazid
+      given-names: Abdullah Al
+    - family-names: Adnan
+      given-names: Md. Istiak
+  year: 2025
+  url: "https://github.com/md-muqtadir-fuad/eGov-Lens"
+  notes: "GitHub repository. Accessed: 2025-08-25."
