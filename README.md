@@ -1,5 +1,7 @@
 # eGov-Lens: A Multi-Dimensional Machine Learning Approach to Aspect-Based Public Feedback Analysis on Bengali e-Government Platforms
 
+[![DOI](https://zenodo.org/badge/1042339176.svg)](https://doi.org/10.5281/zenodo.20090598)
+
 This repository contains the official code and dataset for the paper **"eGov-Lens: A Multi-Dimensional Machine Learning Approach to Aspect-Based Public Feedback Analysis on Bengali e-Government Platforms"**.
 
 eGov-Lens is a practical pipeline designed for the aspect-based analysis of public feedback on Bengali e-government channels. This project curates a new dataset and benchmarks classical machine learning models against transformer-based architectures to find the best-performing models in terms of both classification quality and computational cost.
