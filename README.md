@@ -86,7 +86,7 @@ If you use this repository, please cite both the associated paper and the code/d
 ### Paper
 
 ```bibtex
-@INPROCEEDINGS{11491291,
+@INPROCEEDINGS{eGov2025,
   author={Fuad, Md. Muqtadir and Mazid, Abdullah Al and Adnan, Md. Istiak and Das, Tirthojit and Prapti, Shatabdi Sen and Mahbub, Nafisa},
   booktitle={2025 28th International Conference on Computer and Information Technology (ICCIT)}, 
   title={eGov-Lens: A Multi-Dimensional Machine Learning Approach to Aspect-Based Public Feedback Analysis on Bengali e-Government Platforms}, 
