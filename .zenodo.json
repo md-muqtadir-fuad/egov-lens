@@ -1,0 +1,62 @@
+{
+  "title": "eGov-Lens: Code and Dataset",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "description": "Code and dataset for eGov-Lens: A Multi-Dimensional Machine Learning Approach to Aspect-Based Public Feedback Analysis on Bengali e-Government Platforms. This repository includes Bengali public feedback datasets, classical machine learning experiments, transformer-based feature experiments, final results, and entropy-weighted TOPSIS ranking files.",
+  "creators": [
+    {
+      "name": "Fuad, Md. Muqtadir",
+      "affiliation": "Bangladesh University of Engineering and Technology (BUET)"
+    },
+    {
+      "name": "Mazid, Abdullah Al",
+      "affiliation": "Bangladesh University of Engineering and Technology (BUET)"
+    },
+    {
+      "name": "Adnan, Md. Istiak",
+      "affiliation": "Bangladesh University of Engineering and Technology (BUET)"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Das, Tirthojit",
+      "type": "Researcher"
+    },
+    {
+      "name": "Prapti, Shatabdi Sen",
+      "type": "Researcher"
+    },
+    {
+      "name": "Mahbub, Nafisa",
+      "type": "Researcher"
+    }
+  ],
+  "keywords": [
+    "aspect-based sentiment analysis",
+    "Bengali NLP",
+    "Bangla",
+    "e-government",
+    "public feedback",
+    "low-resource NLP",
+    "text classification",
+    "BanglaBERT",
+    "mBERT",
+    "TOPSIS",
+    "Bangladesh"
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "language": "ben",
+  "related_identifiers": [
+    {
+      "identifier": "10.1109/ICCIT68739.2025.11491291",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-conferencepaper"
+    },
+    {
+      "identifier": "https://github.com/md-muqtadir-fuad/eGov-Lens",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ]
+}

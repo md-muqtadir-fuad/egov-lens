@@ -79,16 +79,22 @@ The repository is organized as follows:
 
 The `Final Result` directory contains the consolidated performance metrics for each classification task. The `Topsis_Entropy` directory contains the code and results for ranking the different models using the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method with entropy-based weights.
 
-## Cite
+## Citation
 
-If you use this repo, please cite:
+If you use this repository, please cite both the associated paper and the code/data repository.
+
+### Paper
 
 ```bibtex
-@misc{eGovLensCode2025,
-  author       = {Fuad, Md. Muqtadir and Mazid, Abdullah Al and Adnan, Md. Istiak},
-  title        = {eGov-Lens: Code and Dataset},
-  year         = {2025},
-  howpublished = {\url{https://github.com/md-muqtadir-fuad/eGov-Lens}},
-  note         = {Accessed: 2025-08-25}
+@INPROCEEDINGS{11491291,
+  author={Fuad, Md. Muqtadir and Mazid, Abdullah Al and Adnan, Md. Istiak and Das, Tirthojit and Prapti, Shatabdi Sen and Mahbub, Nafisa},
+  booktitle={2025 28th International Conference on Computer and Information Technology (ICCIT)}, 
+  title={eGov-Lens: A Multi-Dimensional Machine Learning Approach to Aspect-Based Public Feedback Analysis on Bengali e-Government Platforms}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={813-818},
+  keywords={Feeds;Radio broadcasting;Frequency modulation;Feedback;Circuits;Communication systems;Protocols;Modulation;Radio broadcasting;HTTP;Aspect-based sentiment analysis (ABSA);Bengali (Bangla);e-government;public feedback;low-resource NLP;text classification;BanglaBERT;TOPSIS},
+  doi={10.1109/ICCIT68739.2025.11491291}
 }
 ```
